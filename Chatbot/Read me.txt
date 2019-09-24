@@ -1,0 +1,4 @@
+Project has been developed in Python 3.7 using PyCharm.
+Run the Main.py file in Python.
+It will automatically ask you to insert message.
+Inorder to quit type bye.
